@@ -1,6 +1,6 @@
 {
-	"mfeHome": "http(s)://rafaelScobino.github.io/VS-Test.HOME/remoteEntry.js",
-	"mfePessoas": "http(s)://rafaelScobino.github.io/VS-Test.PESSOAS/remoteEntry.js",
-	"mfeAgenda": "http(s)://rafaelScobino.github.io/VS-Test.AGENDA/remoteEntry.js",
-	"mfePlanos": "http(s)://rafaelScobino.github.io/VS-Test.PLANOS/remoteEntry.js"
+	"mfeHome": "https://rafaelScobino.github.io/VS-Test.HOME/remoteEntry.js",
+	"mfePessoas": "https://rafaelScobino.github.io/VS-Test.PESSOAS/remoteEntry.js",
+	"mfeAgenda": "https://rafaelScobino.github.io/VS-Test.AGENDA/remoteEntry.js",
+	"mfePlanos": "https://rafaelScobino.github.io/VS-Test.PLANOS/remoteEntry.js"
 }
